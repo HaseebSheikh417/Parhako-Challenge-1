@@ -1,0 +1,7 @@
+   fetch('https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/images.json').then((apidata) => {
+            return apidata.json();
+        }).then((apidata) => {
+            console.log(apidata)
+        }).catch((error) => {
+            console.log(error)
+        })
