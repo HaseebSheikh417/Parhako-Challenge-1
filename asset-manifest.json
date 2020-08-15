@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Parhako-Challenge-1/static/css/main.5383d8f1.chunk.css",
+    "main.js": "/Parhako-Challenge-1/static/js/main.1652cb20.chunk.js",
+    "main.js.map": "/Parhako-Challenge-1/static/js/main.1652cb20.chunk.js.map",
+    "runtime-main.js": "/Parhako-Challenge-1/static/js/runtime-main.7a033cfb.js",
+    "runtime-main.js.map": "/Parhako-Challenge-1/static/js/runtime-main.7a033cfb.js.map",
+    "static/js/2.0c621721.chunk.js": "/Parhako-Challenge-1/static/js/2.0c621721.chunk.js",
+    "static/js/2.0c621721.chunk.js.map": "/Parhako-Challenge-1/static/js/2.0c621721.chunk.js.map",
+    "index.html": "/Parhako-Challenge-1/index.html",
+    "precache-manifest.b8fb28dc9f484ef1296924d6e4abd8c2.js": "/Parhako-Challenge-1/precache-manifest.b8fb28dc9f484ef1296924d6e4abd8c2.js",
+    "service-worker.js": "/Parhako-Challenge-1/service-worker.js",
+    "static/css/main.5383d8f1.chunk.css.map": "/Parhako-Challenge-1/static/css/main.5383d8f1.chunk.css.map",
+    "static/js/2.0c621721.chunk.js.LICENSE.txt": "/Parhako-Challenge-1/static/js/2.0c621721.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a033cfb.js",
+    "static/js/2.0c621721.chunk.js",
+    "static/css/main.5383d8f1.chunk.css",
+    "static/js/main.1652cb20.chunk.js"
+  ]
+}
